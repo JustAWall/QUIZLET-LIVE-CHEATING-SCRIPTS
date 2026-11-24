@@ -6,3 +6,7 @@ I am NOT responsible for any damage you  made.
 Enjoy!
 QuizletHack_color - just shows you what answer is right.
 QuizlesHack_autoclicker - autoclicks on the right answer automatically with a random delay, so you wouldn't get banned by autochecks.
+
+
+
+My easiest project. Made in 1 day. 
